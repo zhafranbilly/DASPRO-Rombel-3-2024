@@ -8,7 +8,11 @@ Tugas DASPRO TLX Rombel 3 2024
 
 # Contoh Isi File CPP
 ```cpp
-/*"isi soalnya disini"
+/*isi soalnya disini
+Soal
+Sekarang, ubahlah program tersebut agar keluarannya menjadi:
+    "Halo, dunia!"
+Lalu, tekan tombol Submit di sebelah bawah untuk menjalankan program tersebut. Setelah dijalankan, keluarannya akan tercetak di bawah.
 */
 
 //kodenya dibawah sini
