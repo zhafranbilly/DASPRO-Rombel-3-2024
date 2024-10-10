@@ -16,7 +16,7 @@ int main() {
         if (luas % 2 != 0) {
             continue;
         }
-        
+
         // Sekarang, kita akan cek apakah luas ini merupakan bilangan kuadrat sempurna.
         bool kuadrat_sempurna = false;
 
@@ -46,7 +46,7 @@ int main() {
 // Berikut adalah penjelasannya:
 
 // 1. Perulangan melalui rentang yang diberikan: Program dimulai dengan luas yang diatur ke 100.000 dan meningkat hingga mencapai 200.000.
-// 2. Memeriksa apakah luas genap: Jika luas bukan bilangan genap (luas % 2 != 0), maka iterasi berikutnya dilanjutkan.
+// 2. Memeriksa apakah luas genap: Jika luas bukan bilangan genap (luas % 2 /= 0), maka iterasi berikutnya dilanjutkan.
 // 3. Memeriksa apakah luas adalah bilangan kuadrat sempurna: Awalnya, diasumsikan kuadrat_sempurna adalah false, kemudian diperiksa semua nilai k dari 1 hingga akar kuadrat dari luas. Jika k * k sama dengan luas, maka luas merupakan bilangan kuadrat sempurna.
 // 4. Mencetak dan berhenti: Ketika kedua syarat tersebut terpenuhi, program mencetak luas dan menghentikan perulangan.
 
