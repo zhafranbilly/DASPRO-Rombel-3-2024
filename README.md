@@ -25,8 +25,9 @@ int main() {
 kalian juga bisa menambahkan penjelasan didalam kode seperti berikut 
 ```cpp
 // penjelasan
-/* penjelasan dengan lebih dari 1 baris
-*/
+/*penjelasan
+dengan
+lebih dari 1 baris*/
 ```
 "//" untuk penjelasan singkat seperti penjelasan 1 baris
 "/* ... */" untuke penjelasan lebih dari 1 baris
