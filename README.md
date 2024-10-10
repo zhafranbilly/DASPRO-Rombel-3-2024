@@ -1,6 +1,8 @@
 # DASPRO-Rombel-3-2024
 Tugas DASPRO TLX Rombel 3 2024
 
+# Cara pull request ada di bawah!!!
+
 # List Pembagian Tugas DASPRO
 [Salin dari Pembagian Tugas Pemrograman Repo Github(1).xlsx](https://github.com/user-attachments/files/17277521/Salin.dari.Pembagian.Tugas.Pemrograman.Repo.Github.1.xlsx)
 
@@ -34,14 +36,17 @@ lebih dari 1 baris
 "//" untuk penjelasan singkat seperti penjelasan 1 baris
 "/* ... */" untuke penjelasan lebih dari 1 baris
 # pull request untuk update file
-klik pensil untuk mengisi/edit file 
+
+klik pensil untuk mengisi/edit file               
 ![image](https://github.com/user-attachments/assets/5bb70361-1e90-4939-b878-43e5b6e09e59)
 
-setelah mengisi klik Commit Changes > Purpose Change
+setelah mengisi klik Commit Changes > Purpose Change 
 ![image](https://github.com/user-attachments/assets/067f0229-5ee7-4ace-bac5-40d4523bb2ae)
 
-klik Create pull request > Create pull request
+klik Create pull request 
 ![image](https://github.com/user-attachments/assets/0c8fe4cf-f6e4-4141-858b-b6216eb2a853)
+
+Create pull request
 ![image](https://github.com/user-attachments/assets/0a984774-b652-490e-b676-9b4187e6b380)
 
 Nanti aku acc
