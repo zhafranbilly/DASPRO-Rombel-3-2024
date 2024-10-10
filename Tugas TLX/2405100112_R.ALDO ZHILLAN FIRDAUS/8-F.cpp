@@ -74,45 +74,4 @@ int main() {
     cout << kalkulator('?', {"3", "2", "1"}) << endl;
 }
 
-// Fungsi Utama:
-// Program ini adalah kalkulator sederhana yang bisa melakukan penjumlahan ('+') dan perkalian ('*') pada angka yang disimpan dalam bentuk string di dalam vector<string>
-
-//     Header:
-//     cpp
-
-//     #include <iostream>
-//     #include <string>
-//     #include <vector>
-//     using namespace std;
-
-//         iostream: Untuk output ke layar (cout).
-//         string: Untuk memanipulasi teks (string).
-//         vector: Untuk menyimpan deretan data string.
-
-//     Fungsi kalkulator:
-//         Menerima operator (op) dan kumpulan angka dalam bentuk vector<string>.
-//         Penjumlahan dilakukan jika op == '+', dan perkalian jika op == '*'.
-//         Jika operator tidak valid, mengembalikan "KESALAHAN".
-
-//     Penjumlahan:
-//         Setiap string dalam data dikonversi ke long long dengan stoll(), dijumlahkan, lalu hasilnya dikembalikan sebagai string.
-//         Contoh: {"123", "456"} -> 579
-
-//     Perkalian:
-//         Setiap string dikonversi dan dikalikan satu per satu, hasilnya dikembalikan dalam bentuk string.
-//         Contoh: {"2", "3"} -> 6
-
-//     Fungsi main:
-//         Menampilkan hasil penjumlahan/perkalian sesuai dengan operator dan data yang diberikan.
-//         Jika operator tidak valid, menampilkan "KESALAHAN".
-
-// Contoh Output:
-
-// cpp
-
-// 2536371476
-// 1479
-// 4873709888
-// 264920
-// KESALAHAN
-
+// Program ini menghitung penjumlahan atau perkalian dari angka-angka dalam bentuk vector<string>, dengan hasil dikembalikan sebagai string.
