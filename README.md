@@ -22,6 +22,14 @@ int main() {
     std::cout << "Halo, TLX!" << std::endl;
 }
 ```
+kalian juga bisa menambahkan penjelasan didalam kode seperti berikut 
+```cpp
+// penjelasan
+/* penjelasan dengan lebih dari 1 baris
+*/
+```
+"//" untuk penjelasan singkat seperti penjelasan 1 baris
+"/* ... */" untuke penjelasan lebih dari 1 baris
 # pull request untuk update file
 klik pensil untuk mengisi/edit file 
 ![image](https://github.com/user-attachments/assets/5bb70361-1e90-4939-b878-43e5b6e09e59)
