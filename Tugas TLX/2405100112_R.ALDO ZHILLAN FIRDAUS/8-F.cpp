@@ -7,7 +7,7 @@
 // Akan tetapi, elemen-elemen data berupa string! Jadi, kita perlu mengubah setiap string menjadi bilangan terlebih dahulu, lalu hasilnya diubah kembali menjadi string sebelum nilainya dikembalikan.
 
 
-}#include <iostream>
+#include <iostream>
 #include <string>
 #include <vector>
 using namespace std;
